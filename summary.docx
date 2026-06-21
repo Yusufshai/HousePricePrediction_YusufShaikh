@@ -1,0 +1,11 @@
+Q  Which features influence house price the most?
+According to the heatmap, area and bathrooms affect house prices the most. Houses with bigger areas and more bathrooms usually have higher prices.
+
+Q How accurate was your model (in plain terms)?
+  - My model performed fairly well with an R² score of 0.65. This means it was able to predict house prices reasonably close to the actual values most of the time.
+
+Q  What surprised you in the data?
+I was surprised to see that air conditioning and preferred area had a noticeable impact on house prices. I expected house size to matter, but not these features as much.
+
+Q  One recommendation for a real estate business based on your findings.
+I would recommend focusing on houses with larger areas and better amenities because these features seem to increase property prices the most.
